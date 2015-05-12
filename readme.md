@@ -2,7 +2,7 @@
 
 '''
 # input the setting
-host = 'm01.mqtt.cloud.nifty.com'
+host = ''
 port = 16002
 port_tls = 26002
 cafile = '/etc/mosquitto/ca/ca.crt'
